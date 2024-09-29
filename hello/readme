@@ -1,0 +1,43 @@
+## Overview
+
+**Hello World**:
+
+**Basic and fundamental code of C#**:
+
+**Demonstrate basic hello world program in C#**:
+
+## Instructions for Build and Use
+
+Steps to build and/or run the software:
+
+1. Install C#
+2. Open a terminal and put "dotnet new console"
+3. Write a basic code in it, and run by typing "dotnet run."
+
+Instructions for using the software:
+
+1. Open the terminal and run the code.
+2. You see, "Hello World"
+3. Modify the code so that you can see the letters that you want as an output
+
+## Development Environment 
+
+To recreate the development environment, you need the following software and/or libraries with the specified versions:
+
+* download VS code
+* download dotnet
+* download c# in vscode
+
+## Useful Websites to Learn More
+
+I found these websites useful in developing this software:
+
+* https://youtu.be/GhQdlIFylQ8?si=VU9d-6SEISsk0V89
+* https://youtu.be/gfkTfcpWqAY?si=maUCybiFNrG8Upyl
+*
+
+## Future Work
+
+* [ ] create games
+* [ ] create cooking app
+* [ ] create church website
